@@ -1,0 +1,2 @@
+split,mean_residual,median_residual,residual_sd,MAE,RMSE,R2,calibration_intercept,calibration_slope,prediction_correlation,pearson_residual_vs_actual,pearson_residual_vs_prediction,spearman_residual_vs_actual,spearman_abs_error_vs_actual,within_city_lag1_residual_autocorr_city0,within_city_lag1_residual_autocorr_city1
+Test,0.251186,0.596008,10.617158,5.943985,10.591711,0.825895,0.5669392795,0.9496077374,0.9101236900,-0.3061754276,0.1157806783,-0.2560048942,0.4792918369,-0.0016997438,0.0901213304
