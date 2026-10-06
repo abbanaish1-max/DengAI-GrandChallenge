@@ -1,0 +1,7 @@
+model,split,MAE,RMSE,R2
+History-only,Validation,5.147302,9.450030,0.755333
+History-only,Test,6.476422,11.286220,0.802314
+Environment-only,Validation,16.634563,27.483538,-1.069449
+Environment-only,Test,13.670074,23.054103,0.175147
+Full 61-feature Gradient Boosting,Validation,4.951851,8.921894,0.781916
+Full 61-feature Gradient Boosting,Test,5.943985,10.591711,0.825895
