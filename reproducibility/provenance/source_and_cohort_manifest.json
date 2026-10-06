@@ -1,0 +1,27 @@
+{
+  "benchmark_status": "archived historical result; original 61-feature processed artifact and exact feature-generation pipeline not recovered",
+  "historical_benchmark": {
+    "rows": 1352,
+    "columns": 66,
+    "predictors": 61,
+    "target": "total_cases",
+    "identifiers": ["city", "week_start_date", "year", "weekofyear"],
+    "split": {"train": 767, "validation": 398, "test": 187}
+  },
+  "source_files_required_locally": [
+    "dengue_features_train.csv",
+    "dengue_labels_train.csv"
+  ],
+  "source_derived_reconstruction": {
+    "method": "merge source training features and labels by city/year/weekofyear; sort within city by week_start_date; retain rows after 52-week within-city target-history boundary; sort retained cohort chronologically",
+    "cohort_rows": 1352,
+    "cohort_columns": 25,
+    "date_min": "1991-04-30",
+    "date_max": "2010-06-25"
+  },
+  "limitations": [
+    "The 25-column source-derived cohort is not the original 66-column benchmark matrix.",
+    "The exact 48 environmental feature names/order and full preprocessing pipeline were not recovered.",
+    "Archived benchmark metrics are historical records and are not freshly recomputed by this release."
+  ]
+}
