@@ -1,0 +1,5 @@
+split,incidence_regime,N,mean_bias_pred_minus_obs,MAE,RMSE,underprediction_percent
+Test,Low (0–5),87,1.654035,2.452524,3.402632,29.89
+Test,Moderate (6–20),61,0.928136,4.849922,6.622418,50.82
+Test,High (21–50),26,-1.906189,10.293483,12.736369,57.69
+Test,Very-high (>50),13,-7.998813,25.744594,31.717939,61.54
