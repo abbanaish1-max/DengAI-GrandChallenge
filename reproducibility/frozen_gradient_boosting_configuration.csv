@@ -1,0 +1,7 @@
+parameter,value
+n_estimators,300
+learning_rate,0.03
+max_depth,3
+min_samples_split,5
+min_samples_leaf,2
+random_state,42
