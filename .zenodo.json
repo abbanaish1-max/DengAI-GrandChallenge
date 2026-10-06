@@ -1,0 +1,20 @@
+{
+  "title": "DengAI Reproducibility and Benchmark Provenance Release",
+  "upload_type": "software",
+  "description": "Reproducibility and provenance release for the climate-coupled variable-order fractional dengue manuscript. The package preserves source-derived cohort reconstruction logic, frozen Gradient Boosting configuration, archived benchmark metrics, selected Stage-6 diagnostics, and explicit reproducibility limitations. The historical 1,352 x 66 processed benchmark artifact and complete original feature-generation pipeline were not recovered and are therefore not represented as exactly rerunnable in this release.",
+  "creators": [
+    {"name": "Abubakar Suleiman Muhammad"},
+    {"name": "Muhammad Sabiu Zakari"},
+    {"name": "Umar Muhammad Dauda"},
+    {"name": "Firdausi Umar Muhammad"}
+  ],
+  "keywords": ["dengue", "DengAI", "reproducibility", "gradient boosting", "fractional dynamics", "benchmark provenance"],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/abbanaish1-max/DengAI-GrandChallenge",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
