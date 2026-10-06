@@ -1,0 +1,4 @@
+split,zero_based_start,zero_based_end,start_date,end_date,n_rows
+train,0,766,1991-04-30,2003-10-08,767
+validation,767,1164,2003-10-15,2007-08-06,398
+test,1165,1351,2007-08-13,2010-06-25,187
