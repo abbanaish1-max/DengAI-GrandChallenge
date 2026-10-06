@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this release, cite the versioned Zenodo record and the associated manuscript."
+title: "DengAI Reproducibility and Benchmark Provenance Release"
+type: software
+authors:
+  - family-names: "Muhammad"
+    given-names: "Abubakar Suleiman"
+  - family-names: "Zakari"
+    given-names: "Muhammad Sabiu"
+  - family-names: "Dauda"
+    given-names: "Umar Muhammad"
+  - family-names: "Muhammad"
+    given-names: "Firdausi Umar"
+version: "1.0.0"
+date-released: "2026-10-06"
+repository-code: "https://github.com/abbanaish1-max/DengAI-GrandChallenge"
